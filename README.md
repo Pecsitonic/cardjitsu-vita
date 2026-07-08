@@ -1,6 +1,6 @@
 # Card-Jitsu — PS Vita Port
 
-A native PS Vita port of *Card-Jitsu* based on the Android version (club penguin). This port was made to bring the game to Vita hardware, adapting the original Android build to work properly with PS Vita controls, screen resolution and filesystem.
+This is an unofficial fan-made port of *Card-Jitsu* based on the Android version (club penguin). This port was made to bring the game to Vita hardware, adapting the original Android build to work properly with PS Vita controls, screen resolution and filesystem.
 
 Built using **VitaSDK**, with the game adapted and packaged as a native PS Vita **VPK**. The port includes Vita-specific changes such as input mapping, file path adjustments, app packaging. liveArea setup and performance
 
